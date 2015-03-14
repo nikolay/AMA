@@ -2,18 +2,20 @@
 
 This is a lightweight ask-me-anything experiment.
 
+Anything is fair game. Ask away!
+
 ---
 
 ### Ask a question
 
 Asking a question is as easy as
 [creating a new issue](https://github.com/r00k/ama/issues/new) on this
-project.
+repo.
 
-I'll try to answer it as soon as I can get to it. Once I answer I'll close the
-issue just so I know what I've covered, but don't worry- if you have any further
-questions just respond in the thread and I'll get back to you soon. Feel free to
-ask a question on any old issue too, even if you didn't create it.
+I'll try to answer it as soon as I can. Once I answer I'll close the issue so I
+know what I've covered, but don't worry&mdash;if you have any further questions
+just respond in the thread and I'll get back to you soon. Feel free to ask a
+question on any old issue too, even if you didn't create it.
 
 ---
 
