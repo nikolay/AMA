@@ -33,3 +33,7 @@ into some of the older threads.
 If you have something quick and easy, just ping me on Twitter. 140 characters
 makes everyone more efficient. I'm [@nikolay](https://twitter.com/nikolay) on
 Twitter.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nikolay/ama/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
