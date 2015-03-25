@@ -1,5 +1,7 @@
 # Ask Me Anything
 
+[![Join the chat at https://gitter.im/nikolay/AMA](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nikolay/AMA?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a lightweight ask-me-anything experiment.
 
 Anything is fair game. Ask away!
